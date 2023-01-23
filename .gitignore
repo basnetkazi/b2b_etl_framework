@@ -1,0 +1,9 @@
+**/.idea
+**/__pycache__
+**/venv
+venv/
+*.log
+config.json
+
+others/test.py
+~*.*
